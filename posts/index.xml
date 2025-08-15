@@ -6,7 +6,14 @@
     <description>Recent content in Posts on TianYZ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 09:30:39 +0800</lastBuildDate>
     <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Everything beginning</title>
+      <link>https://example.org/posts/everything_beginning/</link>
+      <pubDate>Fri, 15 Aug 2025 09:30:39 +0800</pubDate>
+      <guid>https://example.org/posts/everything_beginning/</guid>
+      <description>&lt;p&gt;Good morning my friend.&lt;br&gt;&#xA;Enjoy it.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

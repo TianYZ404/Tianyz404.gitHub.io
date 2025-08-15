@@ -6,7 +6,21 @@
     <description>Recent content in 欢迎来到我的博客 on TianYZ</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate></lastBuildDate>
+    <lastBuildDate>Fri, 15 Aug 2025 09:33:29 +0800</lastBuildDate>
     <atom:link href="https://example.org/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>https://example.org/about/</link>
+      <pubDate>Fri, 15 Aug 2025 09:33:29 +0800</pubDate>
+      <guid>https://example.org/about/</guid>
+      <description>&lt;h1 id=&#34;关于我--about-me&#34;&gt;关于我 / About Me&lt;/h1&gt;&#xA;&lt;h2 id=&#34;中文&#34;&gt;中文&lt;/h2&gt;&#xA;&lt;p&gt;你好，我是 &lt;strong&gt;tianyz404&lt;/strong&gt; 👋&lt;/p&gt;&#xA;&lt;p&gt;17 岁，高中生，全栈开发者，正备考 &lt;strong&gt;CSP-J/S&lt;/strong&gt; （不一定能去上，学业繁重）。&lt;/p&gt;&#xA;&lt;p&gt;在学习生活之余透出的一道光，虽未卓有建树，但内心依旧因其所备受滋润。&lt;/p&gt;&#xA;&lt;p&gt;梦开始的地方——2019年，我曾混迹于&lt;code&gt;咩2016&lt;/code&gt;的群聊里，在优秀的学术氛围（或者是轻松愉快的chat）中对cs产生不错的好感。之后不久借着一段介绍 &lt;strong&gt;艾伦·图灵（Alan Turing）&lt;/strong&gt; 的视频的契机中，真正感受到了计算机科学的魅力。&lt;/p&gt;&#xA;&lt;p&gt;那一刻，我意识到，代码不仅是一串指令，更是一种能够改变世界的思想。&lt;/p&gt;&#xA;&lt;p&gt;从写下第一个 &lt;code&gt;Hello, World!&lt;/code&gt;，到 Python、Rust，我将一步步在技术的广阔地图上标记自己的足迹（全栈times）。&lt;/p&gt;&#xA;&lt;p&gt;我相信，编程是一种创造力的延伸，也是与未来对话的方式。&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;&amp;ldquo;新的开始，新的尝试&amp;rdquo;&lt;/strong&gt; — 每一次敲下回车，都是一次全新的启程。&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;纵使就业前景并非乐观，热爱常在。&lt;/p&gt;&#xA;&lt;p&gt;&lt;strong&gt;对错于否，交由命运，交由时间。我便是新时代的堂吉诃德。&lt;/strong&gt;&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;&lt;strong&gt;“恶龙，我要与你大战三百回合！！！”&lt;/strong&gt; - 堂吉诃德式的冲锋  &lt;!-- raw HTML omitted --&gt;&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;这是一个疯疯癫癫的人，一个学生，一个coder的故事。&lt;/p&gt;&#xA;&lt;p&gt;——2025/08/15记&lt;/p&gt;&#xA;&lt;h3 id=&#34;当前关注领域&#34;&gt;&lt;strong&gt;当前关注领域&lt;/strong&gt;：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;前端开发（HTML / CSS / JavaScript / TypeScript）&lt;/li&gt;&#xA;&lt;li&gt;linux运维&lt;/li&gt;&#xA;&lt;li&gt;Python 工具与脚本&lt;/li&gt;&#xA;&lt;li&gt;Rust 系统编程&lt;/li&gt;&#xA;&lt;li&gt;算法与数据结构（CSP-J/S 备考）&lt;/li&gt;&#xA;&lt;li&gt;Web 全栈项目构建&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h3 id=&#34;在线足迹&#34;&gt;&lt;strong&gt;在线足迹&lt;/strong&gt;：&lt;/h3&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://x.com/tianyz404&#34;&gt;X (Twitter)&lt;/a&gt; — 分享学习进度、技术想法与日常感悟&lt;/li&gt;&#xA;&lt;li&gt;&lt;a href=&#34;https://github.com/tianyz404&#34;&gt;GitHub&lt;/a&gt; — 发布项目源码与实验作品&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;hr&gt;&#xA;&lt;h2 id=&#34;english&#34;&gt;English&lt;/h2&gt;&#xA;&lt;p&gt;Hi, I&amp;rsquo;m &lt;strong&gt;tianyz404&lt;/strong&gt; 👋&lt;/p&gt;&#xA;&lt;p&gt;I’m a 17-year-old high school student, a full-stack developer, and currently preparing for the &lt;strong&gt;CSP-J/S&lt;/strong&gt; algorithm competition (though I might not be able to participate, as academics keep me busy).&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Everything beginning</title>
+      <link>https://example.org/posts/everything_beginning/</link>
+      <pubDate>Fri, 15 Aug 2025 09:30:39 +0800</pubDate>
+      <guid>https://example.org/posts/everything_beginning/</guid>
+      <description>&lt;p&gt;Good morning my friend.&lt;br&gt;&#xA;Enjoy it.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>
